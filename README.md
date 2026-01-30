@@ -1,4 +1,4 @@
-![Joanna's Project Banner](https://github.com/joanna-sym/Video-Assembly-Engine-Archive/blob/main/images/Github%20Banner-Joanna%20Shen.png)
+![Joanna's Project Banner](https://github.com/joanna-sym/Video-Assembly-Engine-Archive/blob/main/images/banner.png)
 # 📂 PROJECT ARCHIVE: Joanna's Digital Matrix - Video Assembly Engine
 # (项目归档：视频自动化合成引擎 - 实验性项目)
 
