@@ -1,3 +1,4 @@
+![Joanna's Project Banner](https://github.com/joanna-sym/Video-Assembly-Engine-Archive/blob/main/images/Github%20Banner-Joanna%20Shen.png))
 # 📂 PROJECT ARCHIVE: Joanna's Digital Matrix - Video Assembly Engine
 # (项目归档：视频自动化合成引擎 - 实验性项目)
 
@@ -31,6 +32,9 @@
     * 编写了 `.bat` 脚本实现一键启动。
     * 解决了 `ImageMagick` 路径锁定、`PIL` 库报错等底层环境问题。
 
+### 👁️ 界面预览 (Demo)
+![Software Screenshot](https://github.com/joanna-sym/Video-Assembly-Engine-Archive/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-30%20000920.png)
+![Software Screenshot](https://github.com/joanna-sym/Video-Assembly-Engine-Archive/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-30%20000929.png)
 ---
 
 ## 3. 为什么失败？ (Why It Failed)
